@@ -50,3 +50,9 @@ a:hover{
 .hero_container{
     margin:10px 10px;
 }
+.main-img{
+    background-image: url(./images/main-photo.avif);
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+}

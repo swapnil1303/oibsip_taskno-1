@@ -2,3 +2,27 @@
     padding:10px 0px;
     margin:10px 0px;
 }
+.about1{
+    background-image: url(./images/about-1.avif);
+    height: 220px;
+    background-size: cover;
+    width: 224px;
+}
+.about2{
+    background-image: url(./images/about-2.avif);
+    height: 220px;
+    width: 224px;
+    background-size: cover;
+}
+.about3{
+    background-image: url(./images/about-3.jpg);
+    height: 220px;
+    width: 224px;
+    background-size: cover;
+}
+.about4{
+    background-image: url(./images/about-4.jpg);
+    height: 220px;
+    width: 224px;
+    background-size: cover;
+}
